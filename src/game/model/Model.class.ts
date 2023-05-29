@@ -1,6 +1,6 @@
-import Point from '../../Point';
+import Point from './Point.class';
 import Direction from '../common/enums/Direction.enum';
-import Snake from './Snake';
+import Snake from './Snake.class';
 
 /** Model for representing the state of the snake game. */
 class Model implements IModel {
@@ -26,11 +26,11 @@ class Model implements IModel {
   /** Reset the game */
   public reset(): void {
     this.status = Model.Status.Running;
-    const spawn: Point = {
+    const spawn: Point = new Point(
       // Middle of the game board
-      x: Math.floor((this.columns - 1) / 2),
-      y: Math.floor((this.rows - 1) / 2),
-    };
+      Math.floor((this.columns - 1) / 2),
+      Math.floor((this.rows - 1) / 2),
+    );
     this.score = 0;
     this.snake = new Snake(spawn, this.startingLength, this);
     this.placeApple();

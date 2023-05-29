@@ -1,9 +1,6 @@
-interface Point {
-  x: number;
-  y: number;
-}
+class Point {
+  constructor(public x: number, public y: number) {}
 
-namespace Point {
   /**
    * Returns true if the points have same coordinates, else returns false.
    *
@@ -11,7 +8,7 @@ namespace Point {
    * @param point2 Point 2
    * @returns Result
    */
-  export const equals = (point1: Point, point2: Point): boolean => {
+  public static equals = (point1: Point, point2: Point): boolean => {
     return point1.x === point2.x && point1.y == point2.y;
   };
 
@@ -22,7 +19,7 @@ namespace Point {
    * @param point2 Point 2
    * @returns Result
    */
-  export const add = (point1: Point, point2: Point): Point => {
+  public static add = (point1: Point, point2: Point): Point => {
     return { x: point1.x + point2.x, y: point1.y + point2.y };
   };
 }

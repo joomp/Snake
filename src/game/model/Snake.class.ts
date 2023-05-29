@@ -1,4 +1,4 @@
-import Point from '../../Point';
+import Point from './Point.class';
 import Model from './Model.class';
 import Direction from '../common/enums/Direction.enum';
 
@@ -98,7 +98,7 @@ class Snake {
    * @returns Point
    */
   private directionToPoint(direction: Direction): Point {
-    const d: Point = { x: 0, y: 0 };
+    const d: Point = new Point(0, 0);
 
     if (direction === Direction.Up) d.y = -1;
     else if (direction === Direction.Right) d.x = 1;
