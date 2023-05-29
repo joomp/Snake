@@ -7,7 +7,7 @@
    viewBox="0 0 47.869 21.496001"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="game_over.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,16 +24,17 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="4"
-     inkscape:cx="94.625"
-     inkscape:cy="53"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="8"
+     inkscape:cx="75.1875"
+     inkscape:cy="19.0625"
+     inkscape:window-width="2560"
+     inkscape:window-height="1363"
+     inkscape:window-x="2560"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
-     showguides="true" />
+     showguides="true"
+     inkscape:pageshadow="2" />
   <defs
      id="defs2" />
   <g
@@ -41,37 +42,49 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-52.620991,-51.730034)">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:0;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';text-align:center;letter-spacing:0px;word-spacing:0.00264583px;text-anchor:middle;fill:#ffffff;stroke-width:0.365;stroke-dasharray:none"
-       x="77.261292"
-       y="65.290321"
+    <g
+       aria-label="GAME
+"
        id="text113"
-       inkscape:label="text113"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:0.7;font-family:'Public Pixel';-inkscape-font-specification:'Public Pixel Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:0.365;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         x="77.261292"
-         y="65.290321"
-         id="tspan3875"><tspan
-           dx="0 0 -0.23999999"
-           dy="-1.5"
-           id="tspan215"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;line-height:0.7;font-family:'Public Pixel';-inkscape-font-specification:'Public Pixel Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:0.365;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal">GAME</tspan></tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:0.7;font-family:'Public Pixel';-inkscape-font-specification:'Public Pixel Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:0.365;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         x="77.261292"
-         y="66.074974"
-         id="tspan217" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;font-family:'Public Pixel';-inkscape-font-specification:'Public Pixel Bold';fill:#ffffff;stroke-width:0.365;stroke-dasharray:none"
-       x="62.085064"
-       y="71.043938"
-       id="text221"><tspan
-         sodipodi:role="line"
-         id="tspan219"
-         style="font-size:7.76111px;fill:#ffffff;stroke:#000000;stroke-width:0.365;stroke-dasharray:none;stroke-opacity:1"
-         x="62.085064"
-         y="71.043938">OVER</tspan></text>
+       style="font-weight:bold;font-size:8.46667px;line-height:0;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';text-align:center;letter-spacing:0px;word-spacing:0.00264583px;text-anchor:middle;fill:#ffffff;stroke-width:0.365;paint-order:markers fill stroke"
+       inkscape:label="text113">
+      <path
+         d="m 56.214603,62.379209 h -1.411112 v -7.055563 h 1.411112 v -1.411112 h 8.466676 v 1.411112 h -7.055563 v 7.055563 h 4.233337 v -2.822225 h -2.822225 v -1.411113 h 5.644451 v 5.64445 h -8.466676 z"
+         style="font-size:11.2889px;line-height:0.7;font-family:'Public Pixel';-inkscape-font-specification:'Public Pixel Bold';stroke:#000000;stroke-linecap:round;stroke-linejoin:miter;paint-order:markers fill stroke"
+         id="path345" />
+      <path
+         d="m 73.147954,59.556984 v -2.822225 h -1.411113 v -1.411113 h -1.411112 v 1.411113 h -1.411113 v 2.822225 z m -7.055563,4.233337 v -7.055562 h 1.411113 v -1.411113 h 1.411112 v -1.411112 h 4.233338 v 1.411112 h 1.411112 v 1.411113 h 1.411113 v 7.055562 h -2.822225 v -2.822225 h -4.233338 v 2.822225 z"
+         style="font-size:11.2889px;line-height:0.7;font-family:'Public Pixel';-inkscape-font-specification:'Public Pixel Bold';stroke:#000000;stroke-linecap:round;stroke-linejoin:miter;paint-order:markers fill stroke"
+         id="path347" />
+      <path
+         d="m 77.141292,63.790321 v -9.877787 h 2.822225 v 1.411112 h 1.411112 v 1.411113 h 1.411113 v -1.411113 h 1.411112 v -1.411112 h 2.822226 v 9.877787 h -2.822226 v -5.64445 h -1.411112 v 1.411113 h -1.411113 v -1.411113 h -1.411112 v 5.64445 z"
+         style="font-size:11.2889px;line-height:0.7;font-family:'Public Pixel';-inkscape-font-specification:'Public Pixel Bold';stroke:#000000;stroke-linecap:round;stroke-linejoin:miter;paint-order:markers fill stroke"
+         id="path349" />
+      <path
+         d="m 88.430192,63.790321 v -9.877787 h 9.877788 v 1.411112 h -7.055563 v 2.822225 h 4.233338 v 1.411113 h -4.233338 v 2.822225 h 7.055563 v 1.411112 z"
+         style="font-size:11.2889px;line-height:0.7;font-family:'Public Pixel';-inkscape-font-specification:'Public Pixel Bold';stroke:#000000;stroke-linecap:round;stroke-linejoin:miter;paint-order:markers fill stroke"
+         id="path351" />
+    </g>
+    <g
+       aria-label="OVER"
+       id="text221"
+       style="font-weight:bold;font-size:7.76111px;font-family:'Public Pixel';-inkscape-font-specification:'Public Pixel Bold';fill:#ffffff;stroke-width:0.365;paint-order:markers fill stroke">
+      <path
+         d="m 63.055203,70.073799 h -0.970139 v -4.850694 h 0.970139 v -0.970138 h 4.850693 v 0.970138 h 0.970139 v 4.850694 h -0.970139 v 0.970139 h -4.850693 z m 0.970138,0 h 2.910417 v -4.850694 h -2.910417 z"
+         style="stroke:#000000;paint-order:markers fill stroke"
+         id="path336" />
+      <path
+         d="m 70.816312,68.133521 h -0.970138 v -3.880554 h 1.940277 v 3.880554 h 0.970139 v 0.970139 h 0.970139 v -0.970139 h 0.970138 v -3.880554 h 1.940278 v 3.880554 h -0.970139 v 0.970139 h -0.970139 v 0.970139 h -0.970138 v 0.970139 H 72.75659 V 70.073799 H 71.786451 V 69.10366 h -0.970139 z"
+         style="stroke:#000000;paint-order:markers fill stroke"
+         id="path338" />
+      <path
+         d="m 77.607284,71.043938 v -6.790971 h 6.790971 v 0.970138 h -4.850694 v 1.940278 h 2.910416 v 0.970138 h -2.910416 v 1.940278 h 4.850694 v 0.970139 z"
+         style="stroke:#000000;paint-order:markers fill stroke"
+         id="path340" />
+      <path
+         d="m 85.368393,71.043938 v -6.790971 h 5.820832 v 0.970138 h 0.970139 v 1.940278 h -0.970139 v 0.970138 h -0.970138 v 0.970139 h 0.970138 v 0.970139 h 0.970139 v 0.970139 H 90.219087 V 70.073799 H 89.248948 V 69.10366 H 88.278809 V 68.133521 H 87.30867 v 2.910417 z m 1.940277,-3.880555 h 2.910417 V 65.223105 H 87.30867 Z"
+         style="stroke:#000000;paint-order:markers fill stroke"
+         id="path342" />
+    </g>
   </g>
 </svg>

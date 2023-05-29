@@ -7,7 +7,7 @@
    viewBox="0 0 33.068001 20.403"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="victory.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,16 +24,17 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="5.9651515"
-     inkscape:cx="84.74219"
-     inkscape:cy="38.389637"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="11.930303"
+     inkscape:cx="72.546355"
+     inkscape:cy="39.688849"
+     inkscape:window-width="2560"
+     inkscape:window-height="1363"
+     inkscape:window-x="2560"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
-     showguides="true" />
+     showguides="true"
+     inkscape:pageshadow="2" />
   <defs
      id="defs2" />
   <g
@@ -41,33 +42,41 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-53.25088,-53.005085)">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;line-height:0;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';text-align:center;letter-spacing:0px;word-spacing:0.00264583px;text-anchor:middle;fill:#ffffff;stroke-width:0.365;stroke-dasharray:none"
-       x="69.015327"
-       y="63.830643"
+    <g
+       aria-label="YOU
+"
        id="text113"
-       inkscape:label="text113"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;line-height:0.7;font-family:'Public Pixel';-inkscape-font-specification:'Public Pixel Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:0.365;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         x="69.015327"
-         y="63.830643"
-         id="tspan3875">YOU</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;line-height:0.7;font-family:'Public Pixel';-inkscape-font-specification:'Public Pixel Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:0.365;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         x="69.015327"
-         y="64.746078"
-         id="tspan217" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;font-family:'Public Pixel';-inkscape-font-specification:'Public Pixel Bold';fill:#ffffff;stroke-width:0.365;stroke-dasharray:none"
-       x="61.822971"
-       y="71.225388"
-       id="text221"><tspan
-         sodipodi:role="line"
-         id="tspan219"
-         style="font-size:7.76111px;fill:#ffffff;stroke:#000000;stroke-width:0.365;stroke-dasharray:none;stroke-opacity:1"
-         x="61.822971"
-         y="71.225388">WON</tspan></text>
+       style="font-weight:bold;font-size:9.87778px;line-height:0;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';text-align:center;letter-spacing:0px;word-spacing:0.00264583px;text-anchor:middle;fill:#ffffff;stroke-width:0.365"
+       inkscape:label="text113">
+      <path
+         d="M 56.668103,58.891753 H 55.43338 v -3.704168 h 2.469445 v 3.704168 h 2.469445 v -3.704168 h 2.469445 v 3.704168 h -1.234723 v 1.234722 H 60.37227 v 3.704168 h -2.469445 v -3.704168 h -1.234722 z"
+         style="line-height:0.7;font-family:'Public Pixel';-inkscape-font-specification:'Public Pixel Bold';stroke:#000000;stroke-linecap:round;stroke-linejoin:miter"
+         id="path18" />
+      <path
+         d="m 65.31116,62.59592 h -1.234723 v -6.173612 h 1.234723 v -1.234723 h 6.173612 v 1.234723 h 1.234723 v 6.173612 h -1.234723 v 1.234723 H 65.31116 Z m 1.234722,0 h 3.704168 v -6.173612 h -3.704168 z"
+         style="line-height:0.7;font-family:'Public Pixel';-inkscape-font-specification:'Public Pixel Bold';stroke:#000000;stroke-linecap:round;stroke-linejoin:miter"
+         id="path20" />
+      <path
+         d="m 75.18894,62.59592 h -1.234723 v -7.408335 h 2.469445 v 7.408335 h 3.704168 v -7.408335 h 2.469445 v 7.408335 h -1.234723 v 1.234723 H 75.18894 Z"
+         style="line-height:0.7;font-family:'Public Pixel';-inkscape-font-specification:'Public Pixel Bold';stroke:#000000;stroke-linecap:round;stroke-linejoin:miter"
+         id="path22" />
+    </g>
+    <g
+       aria-label="WON"
+       id="text221"
+       style="font-weight:bold;font-size:7.76111px;font-family:'Public Pixel';-inkscape-font-specification:'Public Pixel Bold';fill:#ffffff;stroke-width:0.365">
+      <path
+         d="m 68.613942,64.434416 v 6.790972 H 66.673665 V 69.28511 h -0.970139 v -0.970139 h -0.970138 v 0.970139 h -0.970139 v 1.940278 h -1.940278 v -6.790972 h 1.940278 v 2.910417 h 0.970139 v -0.970139 h 0.970138 v 0.970139 h 0.970139 v -2.910417 z"
+         style="stroke:#000000"
+         id="path11" />
+      <path
+         d="m 70.55422,70.255249 h -0.970139 v -4.850694 h 0.970139 v -0.970139 h 4.850694 v 0.970139 h 0.970138 v 4.850694 h -0.970138 v 0.970139 H 70.55422 Z m 0.970139,0 h 2.910416 v -4.850694 h -2.910416 z"
+         style="stroke:#000000"
+         id="path13" />
+      <path
+         d="m 77.345191,71.225388 v -6.790972 h 1.940277 v 0.970139 h 0.970139 v 0.970139 h 0.970139 v 0.970139 h 0.970139 v -2.910417 h 1.940277 v 6.790972 H 82.195885 V 69.28511 h -0.970139 v -0.970139 h -0.970139 v -0.970138 h -0.970139 v 3.880555 z"
+         style="stroke:#000000"
+         id="path15" />
+    </g>
   </g>
 </svg>
