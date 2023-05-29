@@ -1,6 +1,6 @@
-import Model from './Model';
-import View from './View';
-import Controller from './Controller';
+import Model from './model/Model.class';
+import Presentation from './presentation/Presentation.class';
+import Controller from './controller/Controller.class';
 
 /** Game object */
 export default class Game {
@@ -11,7 +11,7 @@ export default class Game {
   private readonly timeStep = 200; // Milliseconds
 
   private readonly model: Model;
-  private readonly view: View;
+  private readonly presentation: Presentation;
   private readonly controller: Controller;
 
   /**
@@ -20,13 +20,13 @@ export default class Game {
    */
   public constructor(container: HTMLElement, scoreLabel: HTMLElement) {
     this.model = new Model();
-    this.view = new View(this.model, container, scoreLabel);
+    this.presentation = new Presentation(this.model, container, scoreLabel);
     this.controller = new Controller(this.model);
   }
 
   /**
    * Starts the game loop. On each iteration updates the game model and renders
-   * the game view.
+   * the game presentation.
    */
   public loop(): void {
     let previousTime = 0.0;
@@ -47,7 +47,7 @@ export default class Game {
         delta = delta - timeStep;
       }
 
-      this.view.render();
+      this.presentation.render();
 
       // Repeat
       window.requestAnimationFrame(loop);

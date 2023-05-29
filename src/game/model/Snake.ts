@@ -1,6 +1,6 @@
-import Point from './Point';
-import Model from './Model';
-import Direction from './Direction';
+import Point from '../../Point';
+import Model from './Model.class';
+import Direction from '../common/enums/Direction.enum';
 
 /** Object for representing the state of the snake. */
 class Snake {

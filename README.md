@@ -6,9 +6,9 @@ A simple Snake game implemented with TypeScript and object oriented approach.
 
 Creating a _Game_ object starts the game. A Game consist from a model, view, and a controller. The _Model_ maintains the state of the game. The _View_ renders the game on a canvas based on the Model. The Controller defines an event handler, that updates the model.
 
-## New arcitecture? (notes for myself)
+## New architecture? (notes for myself)
 
-- Presentation: This component is responsible for rendering the game.
+- Presentation: This component is responsible for rendering the game based on the view.
 
 - Controller-View: This component translates user actions captured by the Presentation layer into events that the Controller can understand. In essence, it acts as an adapter between the user interface and the business logic, ensuring that user actions are communicated correctly to the rest of the system.
 

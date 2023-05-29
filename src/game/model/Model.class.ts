@@ -1,9 +1,9 @@
-import Point from './Point';
-import Direction from './Direction';
+import Point from '../../Point';
+import Direction from '../common/enums/Direction.enum';
 import Snake from './Snake';
 
 /** Model for representing the state of the snake game. */
-class Model {
+class Model implements IModel {
   private snake: Snake;
 
   /** The size of the game board */

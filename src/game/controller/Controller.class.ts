@@ -1,8 +1,8 @@
-import Model from './Model';
-import Direction from './Direction';
+import Model from '../model/Model.class';
+import Direction from '../common/enums/Direction.enum';
 
 /** Controller object for the game. */
-export default class Controller {
+export default class Controller implements IController {
   /**
    * Attaches an event handler to the document. The event handler catches
    * KeyboardEvents and updates the model accordingly.

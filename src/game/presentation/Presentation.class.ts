@@ -1,7 +1,7 @@
-import Model from './Model';
+import Model from '../model/Model.class';
 
 /** View that renders the game using a 2D canvas. */
-export default class View {
+export default class Presentation implements IPresentation {
   private readonly canvas: HTMLCanvasElement;
   private readonly ctx: CanvasRenderingContext2D;
   private readonly border = 8; // px
@@ -43,10 +43,10 @@ export default class View {
     const paused = new Image();
     const victory = new Image();
     const apple = new Image();
-    gameOver.src = require('./assets/game_over.svg');
-    paused.src = require('./assets/paused.svg');
-    victory.src = require('./assets/victory.svg');
-    apple.src = require('./assets/apple.svg');
+    gameOver.src = require('../../assets/game_over.svg');
+    paused.src = require('../../assets/paused.svg');
+    victory.src = require('../../assets/victory.svg');
+    apple.src = require('../../assets/apple.svg');
     return { gameOver, victory, paused, apple };
   }
 

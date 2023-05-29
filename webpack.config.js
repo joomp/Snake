@@ -9,14 +9,15 @@ module.exports = {
     static: './dist',
   },
   output: {
-    filename: '[name].js',
+    filename: '[name].[contenthash].js',
     path: path.resolve(__dirname, 'dist'),
     clean: true,
   },
   plugins: [
     new HtmlWebpackPlugin({
-      title: 'Snake game',
+      title: 'Snake',
       template: 'src/index.html',
+      favicon: 'src/assets/apple.svg',
     }),
   ],
   module: {
