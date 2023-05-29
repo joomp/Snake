@@ -1,0 +1,1 @@
+class Presentation implements IPresentation {}
